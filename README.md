@@ -17,7 +17,7 @@ enable:
 * Prevent WebRTC from leaking local IP addresses
 * Block CSP reports
 
-Keep in mind, that some browsers do not support these features, like Safari.
+Keep in mind, that some browsers do not support these features, such as Safari.
 
 # Lists
 
@@ -38,11 +38,11 @@ Also you might want to enable your country's local list from uBO settings.
 * <a href="https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/14.txt&title=AdGuard's Annoyance List">AdGuard's Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-annoyance.txt&title=Fanboy’s Annoyance List">Fanboy’s Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock Warning Removal List">Adblock Warning Removal List</a>
-* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in">Browsing websites without logging in</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in">Browsing websites without logging in</a> (blocks some of these "Please login to your site" popups,
 
 For mobile users:
 
-* <a href="https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FDandelionSprout%2Fadfilt%2Fmaster%2Fstayingonbrowser%2FStaying%2520On%2520The%2520Phone%2520Browser&title=Staying%20On%20The%20Phone%20Browser">Staying on The Mobile Browser</a>
+* <a href="https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FDandelionSprout%2Fadfilt%2Fmaster%2Fstayingonbrowser%2FStaying%2520On%2520The%2520Phone%2520Browser&title=Staying%20On%20The%20Phone%20Browser">Staying on The Mobile Browser</a> (blocks some of these "Download our app" popups)
 
 
 
