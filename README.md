@@ -6,7 +6,7 @@
 * [Opera](https://addons.opera.com/en/extensions/details/ublock/)
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 * [Microsoft Edge](https://www.microsoft.com/en-us/p/ublock-origin/9nblggh444l4?activetab=pivot%3Aoverviewtab)
-* [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3))
+* [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3)
 
 More information about installation on uBO's Github: https://github.com/gorhill/uBlock
 
