@@ -2,6 +2,8 @@
 
 # Install uBlock Origin
 
+If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it before installing uBlock Origin.
+
 * [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 * [Opera](https://addons.opera.com/en/extensions/details/ublock/)
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
