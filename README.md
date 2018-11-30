@@ -57,5 +57,6 @@ Stuff __may__ more likely break if you enable these lists:
 
 # Some other tips and links
 
+* [My Firefox recommendations](https://github.com/theel0ja/firefox-recommendations)
 * [Amp2Html](https://www.daniel.priv.no/web-extensions/amp2html) - Addon for Firefox to redirect Accelerated Mobile Pages (AMP) to normal pages.
 * [FOSS-Android](https://github.com/theel0ja/foss-android/blob/master/README.md) - List of free and open-source alternatives to proprietary Android apps.
