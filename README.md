@@ -50,10 +50,9 @@ For mobile users:
 
 Stuff __may__ more likely break if you enable these lists:
 
-* <a href="https://subscribe.adblockplus.org/?location=https://www.fanboy.co.nz/enhancedstats.txt&title=Fanboy's Enchanced Tracking List">Fanboy's Enchanced Tracking List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-antifacebook.txt&title=Anti-Facebook List">Anti-Facebook List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-social.txt&title=Anti-Facebook List">Fanboy’s Social Blocking List</a>
-
+<!-- * <a href="https://subscribe.adblockplus.org/?location=https://www.fanboy.co.nz/enhancedstats.txt&title=Fanboy's Enchanced Tracking List">Fanboy's Enchanced Tracking List</a> (I don't personally recommend) -->
 
 # Some other tips and links
 
