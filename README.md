@@ -2,7 +2,7 @@
 
 # Install uBlock Origin
 
-If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it before installing uBlock Origin.
+If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it before installing uBlock Origin. [Nano Adblocker](https://github.com/NanoAdblocker) is legit fork though and I recommend it.
 
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (check out my [Firefox tips](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md))
 * [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
