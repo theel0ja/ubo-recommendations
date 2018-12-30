@@ -42,7 +42,7 @@ Also you might want to enable your country's local list from uBO settings.
 * <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock Warning Removal List">Adblock Warning Removal List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in">Browsing websites without logging in</a> (blocks some of these "Please login to your site" popups,
 * <a href="https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FDandelionSprout%2Fadfilt%2Fmaster%2Fstayingonbrowser%2FStaying%2520On%2520The%2520Phone%2520Browser&title=Staying%20On%20The%20Phone%20Browser">Staying on The Mobile Browser</a> (blocks some of these "Download our app" popups)
-
+* <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt&title=I Don't Want to Download Your Browser">I Don't Want to Download Your Browser</a> (Blocks "Download our browser" nags)
 
 
 Stuff __may__ more likely break if you enable these lists:
