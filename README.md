@@ -12,6 +12,10 @@ If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it be
 
 More information about installation on uBO's Github: https://github.com/gorhill/uBlock
 
+# Nano Defender
+
+Install [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) (remember the extra installation steps if you use uBlock Origin)
+
 # Recommended settings
 
 enable:
