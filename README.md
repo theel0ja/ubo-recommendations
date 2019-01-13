@@ -47,6 +47,7 @@ Also you might want to enable your country's local list from uBO settings.
 * <a href="https://subscribe.adblockplus.org/?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt?src=uborec-advanced&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt?src=uborec-advanced">Crapblock Annoyances</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt&title=uBlock filters – Annoyances">uBlock Filters - Annoyances</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/14.txt&title=AdGuard's Annoyance List">AdGuard's Annoyance List</a>
+* <a href="https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/4.txt&title=AdGuard's Social Filters">AdGuard's Social Filters</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-annoyance.txt&title=Fanboy’s Annoyance List">Fanboy’s Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org?location=https://filters.adtidy.org/extension/ublock/filters/3.txt&title=Adguard Spyware Filters">Adguard's Spyware Filters</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock Warning Removal List">Adblock Warning Removal List</a>
