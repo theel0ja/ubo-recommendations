@@ -27,6 +27,10 @@ Keep in mind, that some browsers do not support these features, such as Safari.
 
 # Lists
 
+For blocking annoyances etc. which aren't blocked out of the box.
+
+<!--
+
 ## Basic
 
 Do not disable any of the default lists.
@@ -42,6 +46,8 @@ Also you might want to enable your country's local list from uBO settings.
 * <a href="https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/annoyances/Finland_annoyances.txt&title=Finnish Annoyance List">Finnish Annoyance List</a>
 
 ## Advanced (Blocks more annoyances)
+
+-->
 
 * <a href="https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Fanboy's Cookie List">Fanboy's Cookie List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://crapblock.theel0ja.info/crapblock-annoyances.txt?src=uborec-advanced&title=CrapBlock Annoyances&requiresLocation=https://crapblock.theel0ja.info/crapblock-annoyances.txt?src=uborec-advanced">Crapblock Annoyances</a>
