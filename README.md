@@ -70,7 +70,7 @@ Also you might want to enable your country's local list from uBO settings.
 Other:
 
 * <a href="https://subscribe.adblockplus.org/?location=https://crapblock.theel0ja.info/even-cleaner-news-sites.txt&title=Even cleaner news sites">Even cleaner news sites</a> (removes unnecessary non-content from news sites)
-* <a href="https://subscribe.adblockplus.org/?location=https://gist.githubusercontent.com/gorhill/ef1b62d606473c68d524/raw/f8181faac18cb5172c7c9bca8e5a3b22f0c925d0/gistfile1.txt&title=Disqus click-to-load">Disqus click-to-load</a>
+<!-- * <a href="https://subscribe.adblockplus.org/?location=https://gist.githubusercontent.com/gorhill/ef1b62d606473c68d524/raw/f8181faac18cb5172c7c9bca8e5a3b22f0c925d0/gistfile1.txt&title=Disqus click-to-load">Disqus click-to-load</a> -->
 
 Stuff __may__ more likely break if you enable these lists:
 
