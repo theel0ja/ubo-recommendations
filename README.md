@@ -10,7 +10,7 @@ If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it be
 * [Microsoft Edge](https://www.microsoft.com/en-us/p/ublock-origin/9nblggh444l4?activetab=pivot%3Aoverviewtab)
 * [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3)
 
-More information about installation on uBO's Github: https://github.com/gorhill/uBlock
+More information about installation on uBO's Github: [https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)
 
 <!--
 
