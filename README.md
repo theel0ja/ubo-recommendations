@@ -1,6 +1,6 @@
 # My uBlock Origin recommendations
 
-# Install uBlock Origin
+## Install uBlock Origin
 
 If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it before installing uBlock Origin. [Nano Adblocker](https://github.com/NanoAdblocker) is legit fork though and I recommend it.
 
@@ -14,13 +14,13 @@ More information about installation on uBO's Github: [https://github.com/gorhill
 
 <!--
 
-# Nano Defender (optional)
+## Nano Defender (optional)
 
 Install [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) (remember the extra installation steps if you use uBlock Origin)
 
 -->
 
-# Recommended settings
+## Recommended settings
 
 enable:
 
@@ -29,13 +29,13 @@ enable:
 
 Keep in mind, that some browsers do not support these features, such as Safari.
 
-# Lists
+## Lists
 
 For blocking annoyances etc. which aren't blocked out of the box.
 
 <!--
 
-## Basic
+### Basic
 
 Do not disable any of the default lists.
 
@@ -49,7 +49,7 @@ Also you might want to enable your country's local list from uBO settings.
 
 * <a href="https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/annoyances/Finland_annoyances.txt&title=Finnish Annoyance List">Finnish Annoyance List</a>
 
-## Advanced (Blocks more annoyances)
+### Advanced (Blocks more annoyances)
 
 -->
 
@@ -78,7 +78,7 @@ Stuff __may__ more likely break if you enable these lists:
 * <a href="https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-social.txt&title=Anti-Facebook List">Fanboy’s Social Blocking List</a>
 <!-- * <a href="https://subscribe.adblockplus.org/?location=https://www.fanboy.co.nz/enhancedstats.txt&title=Fanboy's Enchanced Tracking List">Fanboy's Enchanced Tracking List</a> (I don't personally recommend) -->
 
-# Some other tips and links
+## Some other tips and links
 
 * [My Firefox recommendations](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md)
 * [Amp2Html](https://www.daniel.priv.no/web-extensions/amp2html) - Addon for Firefox to redirect Accelerated Mobile Pages (AMP) to normal pages.
