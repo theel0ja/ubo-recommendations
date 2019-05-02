@@ -64,7 +64,8 @@ Also you might want to enable your country's local list from uBO settings.
 * <a href="https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/annoyances/Finland_annoyances.txt&title=Finnish Annoyance List">Finnish Annoyance List</a>
 * <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyingBannersAndOverlays.txt&title=Dandelion Sprout's Annoying Banners and Overlays List">Dandelion Sprout's Annoying Banners and Overlays List</a> (blocks some of these "Please login to your site" popups, "Download our browser" nags and "Do you want to receive notifciations from this site nags)
 * <a href="https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FDandelionSprout%2Fadfilt%2Fmaster%2Fstayingonbrowser%2FStaying%2520On%2520The%2520Phone%2520Browser&title=Staying%20On%20The%20Phone%20Browser">Staying on The Mobile Browser</a> (blocks some of these "Download our app" popups)
-Other:
+
+#### Other
 
 * <a href="https://subscribe.adblockplus.org/?location=https://crapblock.theel0ja.info/even-cleaner-news-sites.txt&title=Even cleaner news sites">Even cleaner news sites</a> (removes unnecessary non-content from news sites)
 <!-- * <a href="https://subscribe.adblockplus.org/?location=https://gist.githubusercontent.com/gorhill/ef1b62d606473c68d524/raw/f8181faac18cb5172c7c9bca8e5a3b22f0c925d0/gistfile1.txt&title=Disqus click-to-load">Disqus click-to-load</a> -->
