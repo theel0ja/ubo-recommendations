@@ -2,7 +2,7 @@
 
 ## Install uBlock Origin
 
-If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it before installing uBlock Origin. [Nano Adblocker](https://github.com/NanoAdblocker) is legit fork though and I recommend it.
+If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it before installing uBlock Origin.
 
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (check out my [Firefox tips](https://github.com/theel0ja/firefox-recommendations/blob/master/README.md))
 * [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
@@ -11,14 +11,6 @@ If you use some other Adblocker, such as AdBlock Plus or "AdBlock", delete it be
 * [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3)
 
 More information about installation on uBO's Github: [https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)
-
-<!--
-
-## Nano Defender (optional)
-
-Install [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) (remember the extra installation steps if you use uBlock Origin)
-
--->
 
 ## Recommended settings
 
